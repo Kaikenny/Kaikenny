@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
--  🧟 I’m currently working with Filaments Software 
+-  🧟 I’m currently working with Filaments Software and Quanta Collective
 -  ⌨️ I’m currently learning other languages, modeling, texturing
 -  🎮 I’m looking to collaborate on games
 -  📲 How to reach me: kaikenny on discord
