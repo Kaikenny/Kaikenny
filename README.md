@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/56eeb16a-3327-461f-b4ab-2337bff06051" />
+
 
 
 -  🧟 I’m currently working with Filaments Software and Quanta Collective
